@@ -1,6 +1,6 @@
 ### add your own bgms
 
-*fork this repo and pinky repo
+*fork this repo and pinky repo <br>
 *add your bgm in mp3 format to media file
 *add exact name in bgmlist array ```eg: ['plk','afn']```
 *go to docker file of pinky and add this repo url
