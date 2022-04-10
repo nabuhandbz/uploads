@@ -8,9 +8,9 @@
 ![image](https://user-images.githubusercontent.com/83832372/162606695-451842f8-94eb-4528-a716-10c9453de8ea.png)
 ### change tag reply audio
 
-*go to media file
-*delete mention.mp3
-*rename you bgm to mention.mp3
-*upload it into media folder
-
+*go to media file <br>
+*delete mention.mp3 <br>
+*rename you bgm to mention.mp3 <br>
+*upload it into media folder <br>
+<br>
 ### thank you for you love and support
