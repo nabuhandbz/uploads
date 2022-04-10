@@ -6,4 +6,11 @@
 *go to docker file of pinky and add this repo url <br>
 <br>
 ![image](https://user-images.githubusercontent.com/83832372/162606695-451842f8-94eb-4528-a716-10c9453de8ea.png)
-### enjoy
+### change tag reply audio
+
+*go to media file
+*delete mention.mp3
+*rename you bgm to mention.mp3
+*upload it into media folder
+
+### thank you for you love and support
